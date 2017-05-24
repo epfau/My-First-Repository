@@ -1,5 +1,1 @@
 I love cats
-
-I am writing some text that I will commit
-
-I will then want to reneg on the commit
